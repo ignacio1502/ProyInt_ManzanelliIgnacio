@@ -1,0 +1,45 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color:   aliceblue ;
+    
+    
+}
+
+@media (min-width:576px){
+    #ftperfil{ 
+        position:absolute;
+        width: 15%;
+        border-radius: 100%;
+        left: 13.5%;
+        top: 600px;
+    }
+}
+
+@media (max-width:575px){
+    #ftperfil{ 
+        position: absolute;
+        width: 50%;
+        border-radius: 100%;
+        left: 95%;
+        top: 630px;
+    }
+}
+
+.nombre{
+    font-weight: bold;
+    margin-top: 15%;
+    margin-bottom: 0%;
+    left: 13%
+}
+.apellido{
+    margin-top: 0%;
+}
+
+.perfil{
+    text-align: center;
+}
+
+

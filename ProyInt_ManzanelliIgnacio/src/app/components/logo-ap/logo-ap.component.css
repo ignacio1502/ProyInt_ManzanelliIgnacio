@@ -1,0 +1,22 @@
+.containor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.redes{
+    margin-right: o.5em;
+}
+
+#APlogo{
+    width: 150px;
+}
+
+img{
+    width: 50px;
+}
+
+.btn{
+    border-width: medium;
+}
